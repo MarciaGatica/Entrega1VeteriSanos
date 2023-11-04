@@ -8,6 +8,7 @@
                 <div class="card-body">
                     <h5 class="card-title">{{ producto.nombre }}</h5>
                     <h1>{{ producto.precio }}</h1>
+                    <button>Agregar Al carrito</button>
                    <!-- <RouterLink to="/catalogo" style="text-decoration: none">Agregar al carrito</RouterLink>-->
                 </div>
             </div>

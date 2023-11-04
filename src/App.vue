@@ -32,7 +32,7 @@ export default {
     return {
       menuOpen: false,
       userRole: 1, // Inicialmente, el rol es nulo
-      contentComponent: 'Inicio', // Componente de inicio por defecto
+      contentComponent: 'Catalogo', // Componente de inicio por defecto
     };
   },
   methods: {
